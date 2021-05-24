@@ -1,4 +1,9 @@
+# compiled bytecode
 *.pyc
+
+# pycharm
 .idea
+
+# other folders
 __pycache__
 
